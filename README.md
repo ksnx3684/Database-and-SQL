@@ -1,4 +1,4 @@
-# Mysql
+# Database and SQL
 데이터베이스의 개념과 데이터베이스 관리에 필요한 SQL 명령어, 설계 등에 대해서 공부한다.
 
 이전에 Bitnami Server를 설치할 당시, Apache Web Server와 MariaDB를 설치하면서 Mysql의 환경도 같이 조성되었기 때문에 따로 Mysql을 중복으로 설치하지 않았다.
