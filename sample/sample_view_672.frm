@@ -1,0 +1,16 @@
+TYPE=VIEW
+query=select `sample`.`sample54`.`no` AS `n`,`sample`.`sample54`.`a` AS `v`,`sample`.`sample54`.`a` * 2 AS `v2` from `sample`.`sample54`
+md5=2786e222af7c59fb9cfb5e021abf044c
+updatable=1
+algorithm=0
+definer_user=root
+definer_host=localhost
+suid=2
+with_check_option=0
+timestamp=2021-11-29 15:08:42
+create-version=2
+source=select no, a, a*2 from sample54
+client_cs_name=euckr
+connection_cl_name=euckr_korean_ci
+view_body_utf8=select `sample`.`sample54`.`no` AS `n`,`sample`.`sample54`.`a` AS `v`,`sample`.`sample54`.`a` * 2 AS `v2` from `sample`.`sample54`
+mariadb-version=100421
